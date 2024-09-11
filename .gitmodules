@@ -22,3 +22,9 @@
 [submodule "docker"]
 	path = docker
 	url = git@github.com:ManyMath/docker
+[submodule "monero-rust"]
+	path = monero-rust
+	url = git@github.com:ManyMath/monero-rust
+[submodule "monerodart"]
+	path = monerodart
+	url = git@github.com:ManyMath/monerodart
