@@ -1,9 +1,6 @@
 [submodule "xmrust"]
 	path = xmrust
 	url = git@github.com:ManyMath/xmrust
-[submodule "xmrdart"]
-	path = xmrdart
-	url = git@github.com:ManyMath/xmrdart
 [submodule "xmrd"]
 	path = xmrd
 	url = git@github.com:ManyMath/xmrd
