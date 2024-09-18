@@ -16,3 +16,9 @@
 [submodule "monerodart"]
 	path = monerodart
 	url = git@github.com:ManyMath/monerodart
+[submodule "arti-ffi"]
+	path = arti-ffi
+	url = git@github.com:ManyMath/arti-ffi
+[submodule "darti"]
+	path = darti
+	url = git@github.com:ManyMath/darti
