@@ -1,6 +1,3 @@
-[submodule "xmrd"]
-	path = xmrd
-	url = git@github.com:ManyMath/xmrd
 [submodule "ManyMonero"]
 	path = ManyMonero
 	url = git@github.com:ManyMath/ManyMonero
@@ -22,3 +19,15 @@
 [submodule "darti"]
 	path = darti
 	url = git@github.com:ManyMath/darti
+[submodule "monerod-rust"]
+	path = monerod-rust
+	url = git@github.com:ManyMath/monerod-rust
+[submodule "monerod-dart"]
+	path = monerod-dart
+	url = git@github.com:ManyMath/monerod-dart
+[submodule "monero-wallet-cli-rust"]
+	path = monero-wallet-cli-rust
+	url = git@github.com:ManyMath/monero-wallet-cli-rust
+[submodule "monero-wallet-rpc-rust"]
+	path = monero-wallet-rpc-rust
+	url = git@github.com:ManyMath/monero-wallet-rpc-rust
