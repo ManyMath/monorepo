@@ -43,6 +43,12 @@
 [submodule "pgp-dart"]
 	path = pgp-dart
 	url = git@github.com:ManyMath/pgp-dart
-[submodule "veracrypt-rust"]
-	path = veracrypt-rust
-	url = git@github.com:ManyMath/veracrypt-rust
+[submodule "git@github.com:ManyMath:dart-ffi"]
+	path = git@github.com:ManyMath:dart-ffi
+	url = git@github.com:ManyMath:dart-ffi
+[submodule "dart-ffi"]
+	path = dart-ffi
+	url = git@github.com:ManyMath/dart-ffi
+[submodule "git@github.com:ManyMath:rust_ffi"]
+	path = git@github.com:ManyMath:rust_ffi
+	url = git@github.com:ManyMath:rust_ffi
