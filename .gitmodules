@@ -43,12 +43,29 @@
 [submodule "pgp-dart"]
 	path = pgp-dart
 	url = git@github.com:ManyMath/pgp-dart
-[submodule "git@github.com:ManyMath:dart-ffi"]
-	path = git@github.com:ManyMath:dart-ffi
-	url = git@github.com:ManyMath:dart-ffi
+[submodule "rust_ffi"]
+	path = rust_ffi
+	url = git@github.com:ManyMath/rust_ffi
+[submodule "zcashdart"]
+	path = zcashdart
+	url = git@github.com:ManyMath/zcashdart
 [submodule "dart-ffi"]
-	path = dart-ffi
 	url = git@github.com:ManyMath/dart-ffi
-[submodule "git@github.com:ManyMath:rust_ffi"]
-	path = git@github.com:ManyMath:rust_ffi
-	url = git@github.com:ManyMath:rust_ffi
+[submodule "zcashd-rust"]
+	path = zcashd-rust
+	url = git@github.com:ManyMath/zcashd-rust
+[submodule "zcashd-dart"]
+	path = zcashd-dart
+	url = git@github.com:ManyMath/zcashd-dart
+[submodule "at-rest-encryption-rust"]
+	path = at-rest-encryption-rust
+	url = git@github.com:ManyMath/at-rest-encryption-rust
+[submodule "at-rest-encryption-dart"]
+	path = at-rest-encryption-dart
+	url = git@github.com:ManyMath/at-rest-encryption-dart
+[submodule "zcash-ffi"]
+	path = zcash-ffi
+	url = git@github.com:ManyMath/zcash-ffi
+[submodule "monero-web"]
+	path = monero-web
+	url = git@github.com:ManyMath/monero-web
