@@ -1,0 +1,9 @@
+[package]
+name = "zerotier-ffi"
+version = "0.0.1"
+edition = "2021"
+description = "Zerotier in Rust oriented for use by Dart."
+repository = "https://github.com/ManyMath/zerotier-rust"
+license = "MIT"
+
+[dependencies]

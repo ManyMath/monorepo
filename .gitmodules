@@ -84,3 +84,15 @@
 [submodule "monero_ts"]
 	path = monero_ts
 	url = git@github.com:ManyMath/monero_ts
+[submodule "anytype-rust"]
+	path = anytype-rust
+	url = git@github.com:ManyMath/anytype-rust
+[submodule "anytype-dart"]
+	path = anytype-dart
+	url = git@github.com:ManyMath/anytype-dart
+[submodule "zerotier-ffi"]
+	path = zerotier-ffi
+	url = git@github.com:ManyMath/zerotier-ffi
+[submodule "zerotier-dart"]
+	path = zerotier-dart
+	url = git@github.com:ManyMath/zerotier-dart
