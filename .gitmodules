@@ -10,9 +10,9 @@
 [submodule "monero-rust"]
 	path = monero-rust
 	url = git@github.com:ManyMath/monero-rust
-[submodule "monerodart"]
-	path = monerodart
-	url = git@github.com:ManyMath/monerodart
+[submodule "monero-dart"]
+	path = monero-dart
+	url = git@github.com:ManyMath/monero-dart
 [submodule "arti-ffi"]
 	path = arti-ffi
 	url = git@github.com:ManyMath/arti-ffi
