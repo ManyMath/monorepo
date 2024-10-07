@@ -50,6 +50,7 @@
 	path = zcashdart
 	url = git@github.com:ManyMath/zcashdart
 [submodule "dart-ffi"]
+	path = dart-ffi
 	url = git@github.com:ManyMath/dart-ffi
 [submodule "zcashd-rust"]
 	path = zcashd-rust
@@ -96,3 +97,6 @@
 [submodule "zerotier-dart"]
 	path = zerotier-dart
 	url = git@github.com:ManyMath/zerotier-dart
+[submodule "monero-web-rust"]
+	path = monero-web-rust
+	url = git@github.com:ManyMath/monero-web-rust
