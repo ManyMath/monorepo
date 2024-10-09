@@ -64,6 +64,9 @@
 [submodule "zcash-ffi"]
 	path = zcash-ffi
 	url = git@github.com:ManyMath/zcash-ffi
+[submodule "monero-web-rust"]
+	path = monero-web-rust
+	url = git@github.com:ManyMath/monero-web-rust
 [submodule "monero-web-dart"]
 	path = monero-web-dart
 	url = git@github.com:ManyMath/monero-web-dart
@@ -94,12 +97,15 @@
 [submodule "zerotier-dart"]
 	path = zerotier-dart
 	url = git@github.com:ManyMath/zerotier-dart
-[submodule "monero-web-rust"]
-	path = monero-web-rust
-	url = git@github.com:ManyMath/monero-web-rust
 [submodule "pgp-ffi"]
 	path = pgp-ffi
 	url = git@github.com:ManyMath/pgp-ffi
 [submodule "keepass-ffi"]
 	path = keepass-ffi
 	url = git@github.com:ManyMath/keepass-ffi
+[submodule "monero-wasm-rust"]
+	path = monero-wasm-rust
+	url = git@github.com:ManyMath/monero-wasm-rust
+[submodule "monero-wasm-dart"]
+	path = monero-wasm-dart
+	url = git@github.com:ManyMath/monero-wasm-dart
