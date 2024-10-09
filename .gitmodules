@@ -100,3 +100,6 @@
 [submodule "monero-web-rust"]
 	path = monero-web-rust
 	url = git@github.com:ManyMath/monero-web-rust
+[submodule "pgp-ffi"]
+	path = pgp-ffi
+	url = git@github.com:ManyMath/pgp-ffi
