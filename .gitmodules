@@ -112,3 +112,6 @@
 [submodule "monero_c"]
 	path = monero_c
 	url = git@github.com:MrCyjaneK/monero_c
+[submodule "serai"]
+	path = serai
+	url = git@github.com:serai-dex/serai
