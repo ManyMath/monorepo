@@ -76,9 +76,6 @@
 [submodule "native_toolchain_rust_mirror"]
 	path = native_toolchain_rust_mirror
 	url = git@github.com:ManyMath/native_toolchain_rust_mirror
-[submodule "monero_c"]
-	path = monero_c
-	url = git@github.com:ManyMath/monero_c
 [submodule "monero_dart"]
 	path = monero_dart
 	url = git@github.com:ManyMath/monero_dart
@@ -109,3 +106,9 @@
 [submodule "monero-wasm-dart"]
 	path = monero-wasm-dart
 	url = git@github.com:ManyMath/monero-wasm-dart
+[submodule "monero_c_mirror"]
+	path = monero_c_mirror
+	url = git@github.com:ManyMath/monero_c
+[submodule "monero_c"]
+	path = monero_c
+	url = git@github.com:MrCyjaneK/monero_c
