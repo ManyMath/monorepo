@@ -8,7 +8,7 @@ A monorepo used for development of ManyMath.
 git clone git@github.com:ManyMath/monorepo
 cd monorepo
 git submodule update --init --recursive
-cd xmrdart
+cd monero-dart
 dart pub get
 dart --enable-experiment=native-assets run bin/xmrdart_example.dart
 ```
