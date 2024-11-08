@@ -115,3 +115,12 @@
 [submodule "serai"]
 	path = serai
 	url = git@github.com:serai-dex/serai
+[submodule "tor"]
+	path = tor
+	url = git@github.com:ManyMath/tor
+[submodule "nym-ffi"]
+	path = nym-ffi
+	url = git@github.com:ManyMath/nym-ffi
+[submodule "nym-dart"]
+	path = nym-dart
+	url = git@github.com:ManyMath/nym-dart
