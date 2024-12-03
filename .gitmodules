@@ -124,3 +124,9 @@
 [submodule "nym-dart"]
 	path = nym-dart
 	url = git@github.com:ManyMath/nym-dart
+[submodule "digest_auth"]
+	path = digest_auth
+	url = git@github.com:ManyMath/digest_auth
+[submodule "monero_rpc"]
+	path = monero_rpc
+	url = git@github.com:ManyMath/monero_rpc
